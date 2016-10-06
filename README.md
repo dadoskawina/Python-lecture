@@ -3,3 +3,4 @@
 
 ## Materiały do kursu prowadzonego w Instytucie Informatyki UJ
 
+1. Podstawy pythona
