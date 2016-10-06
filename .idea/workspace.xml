@@ -2,85 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="49b242b6-be87-4915-969d-28cf57826563" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.ipynb_checkpoints/L10-checkpoint.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.ipynb_checkpoints/L9-checkpoint.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/L1.5.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/L1.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/L10.5.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/L10.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/L10_img/cracow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/L10_img/exit.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/L10_img/gtk.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/L10_img/qt.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/L10_img/wx.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/L11.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/L11_img/okay-thats-it-everyone-out-of-the-gene-pool.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/L11_img/tim.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/L1_img/guido1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/L1_img/img040.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/L1_img/img041.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/L1_img/monthy_python.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/L1_img/monthy_python_group.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/L2.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/L3.5.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/L3.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/L4.5.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/L4.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/L5.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/L5_img/automata.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/L5_img/plus.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/L6.5.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/L6.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/L6/bad_class.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/L6/bad_syntax.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/L6/bad_syntax2.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/L7.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/L8.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/L9.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Pandas-1.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Pandas-2.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Pandas-3.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Pandas_data/iris.data" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SN1.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SN2.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SN3.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SN3_img/nn56.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SN4.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SN4_img/1000cla.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SN4_img/1000reg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SN4_img/100cla.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SN4_img/100reg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SN4_img/10cla.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SN4_img/10reg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SN5.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SN6.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SN7.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SNT1.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SNT1_img/faces.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SNT2.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/U1.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/U10.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/U10_img/cos.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/U11.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/U2.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/U3.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/U4.5.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/U4.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/U5.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/U5_files/atoms.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/U5_files/messages.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/U6.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/U6_files/sorting.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/U7.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/U8.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/U9.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/U9_files/breast-cancer" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/U9_files/d.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/U9_files/lr1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/download_SN3.sh" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/download_task1.sh" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/download_task2.sh" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Python2016_Lab-01.ipynb" afterPath="$PROJECT_DIR$/Python2016_Lab-01.ipynb" />
     </list>
     <ignored path="Python_lecture.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -99,12 +21,21 @@
     <favorites_list name="Python_lecture" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="Python2016_Lab-01.ipynb" pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
+      <file leaf-file-name="Python2016_Lab-01.ipynb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Python2016_Lab-01.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
-              <selected id="12" />
+              <selected id="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Python2016_Wyklad-01.ipynb" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Python2016_Wyklad-01.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="1" />
             </state>
           </provider>
         </entry>
@@ -156,24 +87,24 @@
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Python_lecture" />
+              <option name="myItemId" value="Python-lecture" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Python_lecture" />
+              <option name="myItemId" value="Python-lecture" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Python_lecture" />
+              <option name="myItemId" value="Python-lecture" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -199,19 +130,19 @@
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1655536" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
@@ -232,17 +163,24 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Python2016_Wyklad-01.ipynb">
+    <entry file="file://$PROJECT_DIR$/Python2016_Lab-01.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
-          <selected id="2" />
+          <selected id="-1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Python2016_Lab-01.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
-          <selected id="12" />
+          <selected id="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python2016_Wyklad-01.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="2" />
         </state>
       </provider>
     </entry>
