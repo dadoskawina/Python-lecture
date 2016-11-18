@@ -6,3 +6,5 @@
 1. Podstawy pythona
 2. Comprehension, iteratory, generatory, programowanie funkcyjne
 3. Dekoratory, klasy i obiekty
+4. Menedżer kontekstu
+5. Wyrażenia regularne
