@@ -11,3 +11,4 @@
 6. Dokumentacja kodu, idiomy
 7. Różnice pomiędzy wersjami 2.x i 3.x
 8. Testowanie
+9. Obliczenia numeryczne
