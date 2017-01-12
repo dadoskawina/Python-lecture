@@ -12,3 +12,6 @@
 7. Różnice pomiędzy wersjami 2.x i 3.x
 8. Testowanie
 9. Obliczenia numeryczne
+10. Moduły naukowe
+11. GUI
+12. Pandasy
