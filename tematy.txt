@@ -1,0 +1,7 @@
+6. Dokumentacja kodu, dobre praktyki, testowanie
+7. Ró¿nice miêdzy pythonem 2 a 3
+8. Obliczenia numeryczne
+9. Obliczenia naukowe
+10. GUI
+11. Django
+12. 
